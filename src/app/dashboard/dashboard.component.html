@@ -1,3 +1,28 @@
-<p>
-  Dashboard Komponente...
-</p>
+
+
+
+
+<h1 class="ueberschrift">RED Medical Dashboard</h1>
+<h3 class="AuswahlLabel">Bitte wählen Sie Ihren gewünschten Berreich aus: </h3>
+<select  class="Auswahl" [(ngModel)]="type">
+  <option value="typescript">Typescript</option>
+  <option  value="Angular2">Angular 2</option>
+  <option value="weather">Weather</option>
+</select>
+
+<br>
+<div *ngIf="type == 'typescript'">
+  <h3>Typescript</h3>
+  <app-dashboard-inside bereichvalue="{{type}}"></app-dashboard-inside>
+</div>
+
+<div *ngIf="type == 'Angular2'">
+  <h3>Angular 2</h3>
+  <app-dashboard-inside bereichvalue="{{type}}"></app-dashboard-inside>
+</div>
+
+<div *ngIf="type == 'weather'">
+  <h3>Weather</h3>
+  <app-dashboard-inside bereichvalue="{{type}}"></app-dashboard-inside>
+</div>
+<br>
