@@ -1,0 +1,510 @@
+{
+  "items": [
+    {
+      "tags": [
+        "twitter",
+        "raspberry-pi",
+        "weather"
+      ],
+      "owner": {
+        "reputation": 3,
+        "user_id": 9438167,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/2113569861992420/picture?type=large",
+        "display_name": "Samuel Ho Li Feng",
+        "link": "https://stackoverflow.com/users/9438167/samuel-ho-li-feng"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1575108272,
+      "creation_date": 1575095650,
+      "last_edit_date": 1575108272,
+      "question_id": 59113817,
+      "link": "https://stackoverflow.com/questions/59113817/reading-weather-and-tweeting-it-using-raspberry-pi",
+      "title": "Reading weather and tweeting it using Raspberry Pi"
+    },
+    {
+      "tags": [
+        "javascript",
+        "reactjs"
+      ],
+      "owner": {
+        "reputation": 99,
+        "user_id": 7474903,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-NVFAfhvQMAw/AAAAAAAAAAI/AAAAAAAAAsw/YAWYKv17RmM/photo.jpg?sz=128",
+        "display_name": "Pranav",
+        "link": "https://stackoverflow.com/users/7474903/pranav"
+      },
+      "is_answered": false,
+      "view_count": 37,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1575010758,
+      "creation_date": 1574985271,
+      "last_edit_date": 1575010758,
+      "question_id": 59097278,
+      "link": "https://stackoverflow.com/questions/59097278/how-to-display-hourly-weather-data-based-on-current-hour",
+      "title": "How to display Hourly Weather data based on Current Hour?"
+    },
+    {
+      "tags": [
+        "java",
+        "android",
+        "android-studio",
+        "import",
+        "openweathermap"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12448176,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-LtxaEVzcEV8/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcuRzALOd9pQpsUp54xiLVN3E6LYw/photo.jpg?sz=128",
+        "display_name": "Levi Kataja",
+        "link": "https://stackoverflow.com/users/12448176/levi-kataja"
+      },
+      "is_answered": false,
+      "view_count": 22,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574900415,
+      "creation_date": 1574886179,
+      "last_edit_date": 1574900415,
+      "question_id": 59077911,
+      "link": "https://stackoverflow.com/questions/59077911/how-do-i-make-a-switch-that-changes-my-picture-depending-on-which-weather-id-is",
+      "title": "How do i make a switch that changes my picture depending on which weather id is in a json"
+    },
+    {
+      "tags": [
+        "java",
+        "android"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11792325,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ff9c92a8ba19f3755397faa5ccbb0478?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Aadil",
+        "link": "https://stackoverflow.com/users/11792325/aadil"
+      },
+      "is_answered": false,
+      "view_count": 24,
+      "answer_count": 0,
+      "score": -8,
+      "last_activity_date": 1574857614,
+      "creation_date": 1574857614,
+      "question_id": 59070227,
+      "link": "https://stackoverflow.com/questions/59070227/display-weather-data-in-circular-shape",
+      "title": "Display weather Data in Circular shape"
+    },
+    {
+      "tags": [
+        "python",
+        "pandas",
+        "web-scraping",
+        "beautifulsoup"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12443157,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e71558f5d707cd70a8999130a53e642f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "kpaul",
+        "link": "https://stackoverflow.com/users/12443157/kpaul"
+      },
+      "is_answered": false,
+      "view_count": 40,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574846013,
+      "creation_date": 1574836924,
+      "question_id": 59064441,
+      "link": "https://stackoverflow.com/questions/59064441/scraping-weather-data-from-multiple-pages",
+      "title": "Scraping Weather Data from multiple pages"
+    },
+    {
+      "tags": [
+        "swift4.2"
+      ],
+      "owner": {
+        "reputation": 3336,
+        "user_id": 208348,
+        "user_type": "registered",
+        "accept_rate": 53,
+        "profile_image": "https://www.gravatar.com/avatar/3b5ef5afa0ddc14e8d1fd2657115f547?s=128&d=identicon&r=PG",
+        "display_name": "MilkBottle",
+        "link": "https://stackoverflow.com/users/208348/milkbottle"
+      },
+      "is_answered": false,
+      "view_count": 9,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574832820,
+      "creation_date": 1574832820,
+      "question_id": 59063636,
+      "link": "https://stackoverflow.com/questions/59063636/how-to-access-items-from-the-complex-json-structure-for-weather-using-swift-4-an",
+      "title": "How to access items from the complex json structure for weather using Swift 4 and codable"
+    },
+    {
+      "tags": [
+        "database",
+        "statistics",
+        "space",
+        "solar"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12383160,
+        "user_type": "registered",
+        "profile_image": "https://lh4.googleusercontent.com/-9qhsfuWPXYU/AAAAAAAAAAI/AAAAAAAAABE/-xOcT97Uaw0/photo.jpg?sz=128",
+        "display_name": "Sebastian Korsak",
+        "link": "https://stackoverflow.com/users/12383160/sebastian-korsak"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "closed_date": 1574814634,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1574811070,
+      "creation_date": 1574809922,
+      "last_edit_date": 1574811070,
+      "question_id": 59060751,
+      "link": "https://stackoverflow.com/questions/59060751/where-to-find-some-space-weather-data",
+      "closed_reason": "off-topic",
+      "title": "Where to find some space weather data?"
+    },
+    {
+      "tags": [
+        "android",
+        "watch",
+        "designer",
+        "tizen",
+        "galaxy"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 11962895,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-dLbBxm20V-Q/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcGcLGellMfK45nCrbRkseCcQHSmg/photo.jpg?sz=128",
+        "display_name": "Alexandros Tsakiridis",
+        "link": "https://stackoverflow.com/users/11962895/alexandros-tsakiridis"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574785493,
+      "creation_date": 1574785493,
+      "question_id": 59055321,
+      "link": "https://stackoverflow.com/questions/59055321/samsung-tizen-galaxy-watch-designer-win10-how-to-use-heart-rate-with-weather",
+      "title": "Samsung / Tizen Galaxy Watch Designer Win10: How to use heart rate with weather"
+    },
+    {
+      "tags": [
+        "python",
+        "python-requests",
+        "weather",
+        "weather-api"
+      ],
+      "owner": {
+        "reputation": 10210,
+        "user_id": 2374028,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://i.stack.imgur.com/30OL0.png?s=128&g=1",
+        "display_name": "Charles Clayton",
+        "link": "https://stackoverflow.com/users/2374028/charles-clayton"
+      },
+      "is_answered": true,
+      "view_count": 2415,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1574688898,
+      "creation_date": 1406046499,
+      "question_id": 24892850,
+      "link": "https://stackoverflow.com/questions/24892850/how-to-get-precipitation-rainfall-through-weather-api",
+      "title": "How to get precipitation/rainfall through weather api?"
+    },
+    {
+      "tags": [
+        "oracle",
+        "plsql",
+        "oracle11g",
+        "oracle-sqldeveloper"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12042639,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/e472465be2a0360fe2d7de0cdb0b5682?s=128&d=identicon&r=PG",
+        "display_name": "user157326",
+        "link": "https://stackoverflow.com/users/12042639/user157326"
+      },
+      "is_answered": false,
+      "view_count": 21,
+      "closed_date": 1574628179,
+      "answer_count": 0,
+      "score": -3,
+      "last_activity_date": 1574623386,
+      "creation_date": 1574623386,
+      "question_id": 59021493,
+      "link": "https://stackoverflow.com/questions/59021493/wants-you-to-suggest-me-weather-or-not-going-with-oracle-app-developer-as-a-fres",
+      "closed_reason": "off-topic",
+      "title": "wants you to suggest me weather or not going with oracle app developer as a fresher"
+    },
+    {
+      "tags": [
+        "laravel"
+      ],
+      "owner": {
+        "reputation": 25,
+        "user_id": 12244019,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/2886a786b424c143a41b6395d36d0879?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ahmed",
+        "link": "https://stackoverflow.com/users/12244019/ahmed"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574608811,
+      "creation_date": 1574608811,
+      "question_id": 59019186,
+      "link": "https://stackoverflow.com/questions/59019186/how-to-redirect-admin-weather-he-login-laravel",
+      "title": "How to redirect admin weather he login ? laravel"
+    },
+    {
+      "tags": [
+        "java",
+        "api",
+        "redirect"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12375889,
+        "user_type": "registered",
+        "profile_image": "https://graph.facebook.com/10220924598527704/picture?type=large",
+        "display_name": "Doug Williams",
+        "link": "https://stackoverflow.com/users/12375889/doug-williams"
+      },
+      "is_answered": false,
+      "view_count": 15,
+      "closed_date": 1574721154,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1574575116,
+      "creation_date": 1574575116,
+      "question_id": 59015063,
+      "link": "https://stackoverflow.com/questions/59015063/im-trying-to-register-for-the-weather-api-service-from-yahoo-what-do-i-submit",
+      "closed_reason": "too broad",
+      "title": "I&#39;m trying to register for the weather api service from yahoo, what do i submit in the &quot;redirect URL&quot; requirement?"
+    },
+    {
+      "tags": [
+        "java",
+        "json",
+        "android-studio",
+        "parsing",
+        "weather-api"
+      ],
+      "owner": {
+        "reputation": 15,
+        "user_id": 10171420,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-M8WymAZtamY/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7rAJjS-amQ10m-H1Io6AczQ8UMP8A/mo/photo.jpg?sz=128",
+        "display_name": "roniac",
+        "link": "https://stackoverflow.com/users/10171420/roniac"
+      },
+      "is_answered": true,
+      "view_count": 35,
+      "accepted_answer_id": 58965710,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1574454109,
+      "creation_date": 1574281958,
+      "last_edit_date": 1574284325,
+      "question_id": 58962911,
+      "link": "https://stackoverflow.com/questions/58962911/get-weather-for-specific-date-using-openweather-api-parsing-json-response",
+      "title": "Get weather for specific date using Openweather API - parsing JSON response"
+    },
+    {
+      "tags": [
+        "c++",
+        "visual-c++"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12414280,
+        "user_type": "registered",
+        "profile_image": "https://lh3.googleusercontent.com/a-/AAuE7mB54lMEZCgNvd72yGTUj1MS_avaDilWMeFyFOb3cQ=k-s128",
+        "display_name": "Saikiran Reddy",
+        "link": "https://stackoverflow.com/users/12414280/saikiran-reddy"
+      },
+      "is_answered": false,
+      "view_count": 42,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574416216,
+      "creation_date": 1574398169,
+      "last_edit_date": 1574416216,
+      "question_id": 58987708,
+      "link": "https://stackoverflow.com/questions/58987708/how-to-open-an-image-weather-is-it-a-tiff-jpg-and-png-and-how-to-display-it-in-v",
+      "title": "How to open an image weather is it a TIFF,JPG and PNG and how to display it in Visual C++?"
+    },
+    {
+      "tags": [
+        "google-bigquery",
+        "weather-api",
+        "google-weather-api"
+      ],
+      "owner": {
+        "reputation": 23,
+        "user_id": 4582233,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/ea49a988c939f70cc75f09b3314db18d?s=128&d=identicon&r=PG&f=1",
+        "display_name": "AIK DO",
+        "link": "https://stackoverflow.com/users/4582233/aik-do"
+      },
+      "is_answered": false,
+      "view_count": 28,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574390795,
+      "creation_date": 1574369559,
+      "question_id": 58983561,
+      "link": "https://stackoverflow.com/questions/58983561/bigquery-weather-public-data-sets-missing-last-few-days-data",
+      "title": "BigQuery Weather Public Data Sets - Missing Last Few Days Data"
+    },
+    {
+      "tags": [
+        "python",
+        "dictionary",
+        "matplotlib"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 12410658,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/fed46f3dcf14969028a14422bed21a7c?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Lappis",
+        "link": "https://stackoverflow.com/users/12410658/lappis"
+      },
+      "is_answered": false,
+      "view_count": 37,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1574345573,
+      "creation_date": 1574344044,
+      "question_id": 58976504,
+      "link": "https://stackoverflow.com/questions/58976504/plotting-monthly-weather-data-from-a-dictionary",
+      "title": "Plotting monthly weather data from a dictionary"
+    },
+    {
+      "tags": [
+        "google-maps",
+        "google-maps-api-3",
+        "google-weather-api"
+      ],
+      "owner": {
+        "reputation": 21,
+        "user_id": 11902103,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d42089a1370be68792857f1595fb7aae?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ali",
+        "link": "https://stackoverflow.com/users/11902103/ali"
+      },
+      "is_answered": false,
+      "view_count": 12,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1574340066,
+      "creation_date": 1574340066,
+      "question_id": 58975337,
+      "link": "https://stackoverflow.com/questions/58975337/google-map-weather-with-own-weather-data",
+      "title": "Google map weather with own weather data"
+    },
+    {
+      "tags": [
+        "javascript",
+        "vue.js",
+        "jestjs",
+        "vuex",
+        "vue-test-utils"
+      ],
+      "owner": {
+        "reputation": 80,
+        "user_id": 12311615,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/a156c0960fa2535e301a069c1d412d56?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Naveen Kashyap",
+        "link": "https://stackoverflow.com/users/12311615/naveen-kashyap"
+      },
+      "is_answered": true,
+      "view_count": 34,
+      "accepted_answer_id": 58958515,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574265424,
+      "creation_date": 1574193275,
+      "last_edit_date": 1574251306,
+      "question_id": 58941897,
+      "link": "https://stackoverflow.com/questions/58941897/jest-giving-an-unknown-cannot-read-property-weather-of-undefined-dont-know",
+      "title": "jest giving an UNKNOWN : Cannot read property &#39;weather&#39; of undefined don&#39;t know what is weather"
+    },
+    {
+      "tags": [
+        "colors",
+        "powerbi",
+        "conditional-formatting"
+      ],
+      "owner": {
+        "reputation": 3187,
+        "user_id": 1903793,
+        "user_type": "registered",
+        "accept_rate": 41,
+        "profile_image": "https://i.stack.imgur.com/GSGVu.png?s=128&g=1",
+        "display_name": "Przemyslaw Remin",
+        "link": "https://stackoverflow.com/users/1903793/przemyslaw-remin"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574257022,
+      "creation_date": 1574247786,
+      "last_edit_date": 1574257022,
+      "question_id": 58952814,
+      "link": "https://stackoverflow.com/questions/58952814/generating-hex-colors-for-warm-and-cold-regions-like-in-weather-map",
+      "title": "Generating hex colors for warm and cold regions like in weather map"
+    },
+    {
+      "tags": [
+        "lineageos"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12400684,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d01652f1c2d0aa6fbd81f198588f29ca?s=128&d=identicon&r=PG&f=1",
+        "display_name": "n1l5",
+        "link": "https://stackoverflow.com/users/12400684/n1l5"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": -1,
+      "last_activity_date": 1574232660,
+      "creation_date": 1574206507,
+      "last_edit_date": 1574232660,
+      "question_id": 58944472,
+      "link": "https://stackoverflow.com/questions/58944472/weather-widget-shows-question-mark",
+      "title": "Weather widget shows question mark"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 288
+}

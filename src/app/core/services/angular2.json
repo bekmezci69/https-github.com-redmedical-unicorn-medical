@@ -1,0 +1,526 @@
+{
+  "items": [
+    {
+      "tags": [
+        "javascript",
+        "angular",
+        "particles.js"
+      ],
+      "owner": {
+        "reputation": 2371,
+        "user_id": 4521705,
+        "user_type": "registered",
+        "accept_rate": 60,
+        "profile_image": "https://www.gravatar.com/avatar/c3f755da9707fe0f67ad5679df8d9df5?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Steve Fitzsimons",
+        "link": "https://stackoverflow.com/users/4521705/steve-fitzsimons"
+      },
+      "is_answered": true,
+      "view_count": 9514,
+      "accepted_answer_id": 44306363,
+      "answer_count": 4,
+      "score": 7,
+      "last_activity_date": 1575113059,
+      "creation_date": 1496261193,
+      "question_id": 44293797,
+      "link": "https://stackoverflow.com/questions/44293797/how-to-import-and-use-particles-js-in-an-angular-angular2-angular4-app",
+      "title": "How to import and use particles.js in an Angular/Angular2/Angular4 app"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular",
+        "typescript",
+        "rxjs",
+        "rxjs5"
+      ],
+      "owner": {
+        "reputation": 654,
+        "user_id": 7718856,
+        "user_type": "registered",
+        "accept_rate": 68,
+        "profile_image": "https://www.gravatar.com/avatar/1efc38c4e5d9d6b2f05f082afe89f049?s=128&d=identicon&r=PG",
+        "display_name": "xKxAxKx",
+        "link": "https://stackoverflow.com/users/7718856/xkxaxkx"
+      },
+      "is_answered": true,
+      "view_count": 27057,
+      "accepted_answer_id": 44039647,
+      "answer_count": 4,
+      "score": 21,
+      "last_activity_date": 1575072575,
+      "creation_date": 1495085320,
+      "last_edit_date": 1518884837,
+      "question_id": 44039278,
+      "link": "https://stackoverflow.com/questions/44039278/how-to-stop-observable-timer-in-angular2",
+      "title": "How to Stop observable.timer in Angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "encoding"
+      ],
+      "owner": {
+        "reputation": 271,
+        "user_id": 7267141,
+        "user_type": "registered",
+        "accept_rate": 100,
+        "profile_image": "https://www.gravatar.com/avatar/5a23c96f7b09ad01dc8ffd622b5cf13e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Adam Bajger",
+        "link": "https://stackoverflow.com/users/7267141/adam-bajger"
+      },
+      "is_answered": false,
+      "view_count": 13,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1575063358,
+      "creation_date": 1575062527,
+      "question_id": 59111104,
+      "link": "https://stackoverflow.com/questions/59111104/how-to-load-oem852-encoded-file-in-typescript-angular2",
+      "title": "How to load OEM852 encoded file in typescript (angular2)"
+    },
+    {
+      "tags": [
+        "styles",
+        "angular"
+      ],
+      "owner": {
+        "user_type": "does_not_exist",
+        "display_name": "user5605068"
+      },
+      "is_answered": true,
+      "view_count": 43937,
+      "answer_count": 7,
+      "score": 21,
+      "last_activity_date": 1575053577,
+      "creation_date": 1452093716,
+      "last_edit_date": 1452094931,
+      "question_id": 34636661,
+      "link": "https://stackoverflow.com/questions/34636661/how-do-i-change-the-body-class-via-a-typescript-class-angular2",
+      "title": "How do I change the body class via a typescript class (angular2)"
+    },
+    {
+      "tags": [
+        "javascript",
+        "angular",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 705,
+        "user_id": 6869570,
+        "user_type": "registered",
+        "accept_rate": 56,
+        "profile_image": "https://www.gravatar.com/avatar/dce8785be48bc3dc549c7c1870ad3390?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Natalia",
+        "link": "https://stackoverflow.com/users/6869570/natalia"
+      },
+      "is_answered": true,
+      "view_count": 108735,
+      "answer_count": 4,
+      "score": 39,
+      "last_activity_date": 1575038632,
+      "creation_date": 1484131670,
+      "last_edit_date": 1517770711,
+      "question_id": 41588800,
+      "link": "https://stackoverflow.com/questions/41588800/get-element-by-id-angular2",
+      "title": "Get element by id - Angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "routing",
+        "webpack",
+        "datatables",
+        "navigation"
+      ],
+      "owner": {
+        "reputation": 247,
+        "user_id": 7666366,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://lh6.googleusercontent.com/-XPr9g6wcSFc/AAAAAAAAAAI/AAAAAAAAAFg/7LmXqEwiI7M/photo.jpg?sz=128",
+        "display_name": "Matias gra&#241;a",
+        "link": "https://stackoverflow.com/users/7666366/matias-gra%c3%b1a"
+      },
+      "is_answered": true,
+      "view_count": 20741,
+      "answer_count": 2,
+      "score": 20,
+      "last_activity_date": 1575032059,
+      "creation_date": 1491616561,
+      "question_id": 43289366,
+      "link": "https://stackoverflow.com/questions/43289366/angular2-routing-the-requested-path-contains-undefined-segment-at-index-1",
+      "title": "Angular2 Routing. The requested path contains undefined segment at index 1"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-directives"
+      ],
+      "owner": {
+        "reputation": 211,
+        "user_id": 6148741,
+        "user_type": "registered",
+        "accept_rate": 40,
+        "profile_image": "https://lh3.googleusercontent.com/-s0RE9hD3EQg/AAAAAAAAAAI/AAAAAAAAAcs/LZI1o0stQb0/photo.jpg?sz=128",
+        "display_name": "Mujibur Rahman",
+        "link": "https://stackoverflow.com/users/6148741/mujibur-rahman"
+      },
+      "is_answered": true,
+      "view_count": 5955,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1575023293,
+      "creation_date": 1467387498,
+      "question_id": 38149250,
+      "link": "https://stackoverflow.com/questions/38149250/any-angular2-image-crop-directive-available",
+      "title": "Any angular2 image crop directive available?"
+    },
+    {
+      "tags": [
+        "dragula",
+        "ng2-dragula",
+        "angular-dragula"
+      ],
+      "owner": {
+        "reputation": 1153,
+        "user_id": 5609268,
+        "user_type": "registered",
+        "accept_rate": 26,
+        "profile_image": "https://www.gravatar.com/avatar/856aba163194ffe5d0fea43bc1a14e45?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ethan",
+        "link": "https://stackoverflow.com/users/5609268/ethan"
+      },
+      "is_answered": true,
+      "view_count": 646,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1575018742,
+      "creation_date": 1489101031,
+      "question_id": 42707283,
+      "link": "https://stackoverflow.com/questions/42707283/angular2-dragula-css-cursor-grab-grabbing-not-working",
+      "title": "angular2 Dragula css cursor grab/grabbing not working"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "ionic-framework",
+        "ionic2"
+      ],
+      "owner": {
+        "reputation": 813,
+        "user_id": 4329781,
+        "user_type": "registered",
+        "accept_rate": 57,
+        "profile_image": "https://www.gravatar.com/avatar/d8de523f2be4dd638512684d841d63b0?s=128&d=identicon&r=PG&f=1",
+        "display_name": "StuartDTO",
+        "link": "https://stackoverflow.com/users/4329781/stuartdto"
+      },
+      "is_answered": true,
+      "view_count": 37934,
+      "accepted_answer_id": 46096664,
+      "answer_count": 5,
+      "score": 19,
+      "last_activity_date": 1575017285,
+      "creation_date": 1504787842,
+      "last_edit_date": 1504787945,
+      "question_id": 46096587,
+      "link": "https://stackoverflow.com/questions/46096587/call-a-function-every-10-seconds-angular2",
+      "title": "Call a function every 10 seconds Angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "http-post"
+      ],
+      "owner": {
+        "reputation": 51,
+        "user_id": 6602716,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/d89ac464e625d7d0ff58b3b6c5edefdb?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Filippo De Bellis",
+        "link": "https://stackoverflow.com/users/6602716/filippo-de-bellis"
+      },
+      "is_answered": false,
+      "view_count": 5755,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1575010885,
+      "creation_date": 1469696675,
+      "last_edit_date": 1470669169,
+      "question_id": 38631742,
+      "link": "https://stackoverflow.com/questions/38631742/angular2-typescript-post-request",
+      "title": "Angular2 typescript POST request"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular2-changedetection"
+      ],
+      "owner": {
+        "reputation": 1735,
+        "user_id": 7610968,
+        "user_type": "registered",
+        "accept_rate": 62,
+        "profile_image": "https://www.gravatar.com/avatar/c2780545bb5d74b25c2b3b1c93dd8201?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Roland R&#225;cz",
+        "link": "https://stackoverflow.com/users/7610968/roland-r%c3%a1cz"
+      },
+      "is_answered": true,
+      "view_count": 15778,
+      "accepted_answer_id": 45239814,
+      "answer_count": 7,
+      "score": 16,
+      "last_activity_date": 1575005993,
+      "creation_date": 1500645796,
+      "last_edit_date": 1521019478,
+      "question_id": 45239739,
+      "link": "https://stackoverflow.com/questions/45239739/angular2-ngfor-does-not-update-when-array-is-updated",
+      "title": "Angular2: *ngFor does not update when array is updated"
+    },
+    {
+      "tags": [
+        "html",
+        "css",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 141,
+        "user_id": 12284396,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-3Gs03vczToI/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rcOK1_TLTJ7dO20M9BEs-Z7OZw7Rw/photo.jpg?sz=128",
+        "display_name": "Akhilesh Pothuri",
+        "link": "https://stackoverflow.com/users/12284396/akhilesh-pothuri"
+      },
+      "is_answered": true,
+      "view_count": 33,
+      "accepted_answer_id": 59095198,
+      "answer_count": 2,
+      "score": 0,
+      "last_activity_date": 1574969308,
+      "creation_date": 1573996237,
+      "last_edit_date": 1573996945,
+      "question_id": 58900775,
+      "link": "https://stackoverflow.com/questions/58900775/aligning-ngform-contents-in-angular2",
+      "title": "Aligning ngForm Contents in Angular2"
+    },
+    {
+      "tags": [
+        "typescript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 2441,
+        "user_id": 4124475,
+        "user_type": "registered",
+        "accept_rate": 94,
+        "profile_image": "https://www.gravatar.com/avatar/947467fc980706876eb57bd4378674c8?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Christopher",
+        "link": "https://stackoverflow.com/users/4124475/christopher"
+      },
+      "is_answered": true,
+      "view_count": 194098,
+      "accepted_answer_id": 35212551,
+      "answer_count": 9,
+      "score": 86,
+      "last_activity_date": 1574940533,
+      "creation_date": 1454622768,
+      "last_edit_date": 1454623738,
+      "question_id": 35212341,
+      "link": "https://stackoverflow.com/questions/35212341/angular2-http-post-request-parameters",
+      "title": "Angular2 - Http POST request parameters"
+    },
+    {
+      "tags": [
+        "drop-down-menu",
+        "twitter-bootstrap-3",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 189,
+        "user_id": 2742310,
+        "user_type": "registered",
+        "accept_rate": 67,
+        "profile_image": "https://www.gravatar.com/avatar/c246683c9204039d37d27ecea3c5fdf7?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Noa",
+        "link": "https://stackoverflow.com/users/2742310/noa"
+      },
+      "is_answered": true,
+      "view_count": 53942,
+      "accepted_answer_id": 38377370,
+      "answer_count": 6,
+      "score": 4,
+      "last_activity_date": 1574936099,
+      "creation_date": 1468506977,
+      "last_edit_date": 1468507935,
+      "question_id": 38377103,
+      "link": "https://stackoverflow.com/questions/38377103/disable-select-in-angular2",
+      "title": "disable select in angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "router",
+        "guard",
+        "resolver"
+      ],
+      "owner": {
+        "reputation": 773,
+        "user_id": 4292440,
+        "user_type": "registered",
+        "accept_rate": 55,
+        "profile_image": "https://www.gravatar.com/avatar/54d8093186687b7d5541bd3e89d43dbd?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Max Solid",
+        "link": "https://stackoverflow.com/users/4292440/max-solid"
+      },
+      "is_answered": true,
+      "view_count": 1416,
+      "answer_count": 1,
+      "score": 10,
+      "last_activity_date": 1574924440,
+      "creation_date": 1488902124,
+      "question_id": 42652708,
+      "link": "https://stackoverflow.com/questions/42652708/angular2-exploring-resolved-data-in-canactivate-guard",
+      "title": "Angular2 Exploring Resolved Data in canActivate Guard?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-cli"
+      ],
+      "owner": {
+        "reputation": 4529,
+        "user_id": 2814241,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/9c8b17ae63b15f9342f91d072eff6e7f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "HappyCoder",
+        "link": "https://stackoverflow.com/users/2814241/happycoder"
+      },
+      "is_answered": true,
+      "view_count": 16210,
+      "answer_count": 2,
+      "score": 55,
+      "last_activity_date": 1574887367,
+      "creation_date": 1488556937,
+      "last_edit_date": 1574887367,
+      "question_id": 42583421,
+      "link": "https://stackoverflow.com/questions/42583421/how-to-compress-and-optimise-an-angular2-application",
+      "title": "How to compress and optimise an Angular2 application"
+    },
+    {
+      "tags": [
+        "java",
+        "spring",
+        "angular",
+        "spring-mvc",
+        "spring-boot"
+      ],
+      "owner": {
+        "reputation": 6429,
+        "user_id": 1030168,
+        "user_type": "registered",
+        "accept_rate": 87,
+        "profile_image": "https://www.gravatar.com/avatar/669173718862d56b867946d485f57a7e?s=128&d=identicon&r=PG",
+        "display_name": "Robbo_UK",
+        "link": "https://stackoverflow.com/users/1030168/robbo-uk"
+      },
+      "is_answered": true,
+      "view_count": 26981,
+      "accepted_answer_id": 43954350,
+      "answer_count": 9,
+      "score": 16,
+      "last_activity_date": 1574865762,
+      "creation_date": 1494501126,
+      "last_edit_date": 1495535476,
+      "question_id": 43913753,
+      "link": "https://stackoverflow.com/questions/43913753/spring-boot-with-redirecting-with-single-page-angular2",
+      "title": "Spring boot with redirecting with single page angular2"
+    },
+    {
+      "tags": [
+        "angular",
+        "typescript",
+        "frontend",
+        "http-status-code-404",
+        "html5-audio"
+      ],
+      "owner": {
+        "reputation": 25,
+        "user_id": 5668480,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/25abd1d65309603b529798baf36f1476?s=128&d=identicon&r=PG&f=1",
+        "display_name": "whack",
+        "link": "https://stackoverflow.com/users/5668480/whack"
+      },
+      "is_answered": false,
+      "view_count": 31,
+      "answer_count": 0,
+      "score": -2,
+      "last_activity_date": 1574859455,
+      "creation_date": 1574859077,
+      "last_edit_date": 1574859455,
+      "question_id": 59070668,
+      "link": "https://stackoverflow.com/questions/59070668/how-to-play-audio-in-angular2",
+      "title": "How to play audio in Angular2?"
+    },
+    {
+      "tags": [
+        "angular",
+        "angular-httpclient"
+      ],
+      "owner": {
+        "reputation": 47,
+        "user_id": 5767475,
+        "user_type": "registered",
+        "accept_rate": 25,
+        "profile_image": "https://graph.facebook.com/940254112695021/picture?type=large",
+        "display_name": "Florin Ghisa",
+        "link": "https://stackoverflow.com/users/5767475/florin-ghisa"
+      },
+      "is_answered": true,
+      "view_count": 63,
+      "accepted_answer_id": 59067694,
+      "answer_count": 2,
+      "score": 1,
+      "last_activity_date": 1574853845,
+      "creation_date": 1574845641,
+      "last_edit_date": 1574849553,
+      "question_id": 59066586,
+      "link": "https://stackoverflow.com/questions/59066586/http-get-using-httpparams-in-angular2-returns-a-404-error",
+      "title": "Http get using HttpParams in angular2 returns a 404 error"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "angular"
+      ],
+      "owner": {
+        "reputation": 1733,
+        "user_id": 5628302,
+        "user_type": "registered",
+        "accept_rate": 44,
+        "profile_image": "https://www.gravatar.com/avatar/5f2485540a76d5f3ca57c2f238b5ac8f?s=128&d=identicon&r=PG&f=1",
+        "display_name": "testing",
+        "link": "https://stackoverflow.com/users/5628302/testing"
+      },
+      "is_answered": true,
+      "view_count": 9212,
+      "accepted_answer_id": 36614339,
+      "answer_count": 4,
+      "score": 19,
+      "last_activity_date": 1574851890,
+      "creation_date": 1460610553,
+      "question_id": 36614284,
+      "link": "https://stackoverflow.com/questions/36614284/what-is-viewchild-in-angular2",
+      "title": "What is ViewChild in Angular2?"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 299
+}

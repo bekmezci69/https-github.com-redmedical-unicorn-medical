@@ -1,0 +1,508 @@
+{
+  "items": [
+    {
+      "tags": [
+        "typescript",
+        "react-native",
+        "promise",
+        "try-catch"
+      ],
+      "owner": {
+        "reputation": 578,
+        "user_id": 1792343,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://www.gravatar.com/avatar/737cbb991a74e12f6fbfb437a8194ef0?s=128&d=identicon&r=PG",
+        "display_name": "Fl&#225;vio Costa",
+        "link": "https://stackoverflow.com/users/1792343/fl%c3%a1vio-costa"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574888480,
+      "creation_date": 1574888480,
+      "question_id": 59078370,
+      "link": "https://stackoverflow.com/questions/59078370/throw-error-failed-on-promisse-typescript",
+      "title": "throw error failed on promisse typescript"
+    },
+    {
+      "tags": [
+        "typescript",
+        "visual-studio"
+      ],
+      "owner": {
+        "reputation": 65,
+        "user_id": 5214053,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/826852f0f1f713918b4f37f4dcc65027?s=128&d=identicon&r=PG&f=1",
+        "display_name": "UnknownBeef",
+        "link": "https://stackoverflow.com/users/5214053/unknownbeef"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574887382,
+      "creation_date": 1574887382,
+      "question_id": 59078149,
+      "link": "https://stackoverflow.com/questions/59078149/disable-visual-studio-typescript-compilation-no-sln-or-csproj",
+      "title": "Disable Visual Studio Typescript compilation (no sln or csproj)"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "typescript",
+        "react-select"
+      ],
+      "owner": {
+        "reputation": 267,
+        "user_id": 4718994,
+        "user_type": "registered",
+        "display_name": "joshuaaron",
+        "link": "https://stackoverflow.com/users/4718994/joshuaaron"
+      },
+      "is_answered": false,
+      "view_count": 6,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574886865,
+      "creation_date": 1574886865,
+      "question_id": 59078040,
+      "link": "https://stackoverflow.com/questions/59078040/react-select-typescript-issue-react-use-form-state",
+      "title": "react-select typescript issue (react-use-form-state)"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "typescript",
+        "react-apollo",
+        "apollo-client",
+        "react-tsx"
+      ],
+      "owner": {
+        "reputation": 396,
+        "user_id": 2098068,
+        "user_type": "registered",
+        "accept_rate": 50,
+        "profile_image": "https://i.stack.imgur.com/VERMC.jpg?s=128&g=1",
+        "display_name": "Will de la Vega",
+        "link": "https://stackoverflow.com/users/2098068/will-de-la-vega"
+      },
+      "is_answered": true,
+      "view_count": 561,
+      "accepted_answer_id": 56322918,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1574884887,
+      "creation_date": 1558944482,
+      "last_edit_date": 1574884887,
+      "question_id": 56322049,
+      "link": "https://stackoverflow.com/questions/56322049/call-typescript-apollo-query-from-componentdidmount",
+      "title": "Call Typescript Apollo Query from componentDidMount()"
+    },
+    {
+      "tags": [
+        "typescript",
+        "types"
+      ],
+      "owner": {
+        "reputation": 1,
+        "user_id": 12439438,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/77e3da0e17bf88456f1d2f4f1c08ee88?s=128&d=identicon&r=PG&f=1",
+        "display_name": "schimmch",
+        "link": "https://stackoverflow.com/users/12439438/schimmch"
+      },
+      "is_answered": false,
+      "view_count": 17,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574884846,
+      "creation_date": 1574883409,
+      "question_id": 59077385,
+      "link": "https://stackoverflow.com/questions/59077385/why-does-typescript-not-infer-function-parameters-types-when-those-parameters-ar",
+      "title": "Why does TypeScript not infer function parameters types when those parameters are passed to a typed function?"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "typescript",
+        "react-native"
+      ],
+      "owner": {
+        "reputation": 87,
+        "user_id": 5883564,
+        "user_type": "registered",
+        "accept_rate": 0,
+        "profile_image": "https://lh5.googleusercontent.com/-1yBp0rnp33Q/AAAAAAAAAAI/AAAAAAAAABM/fUGvY7P76-E/photo.jpg?sz=128",
+        "display_name": "Richard Dyer",
+        "link": "https://stackoverflow.com/users/5883564/richard-dyer"
+      },
+      "is_answered": false,
+      "view_count": 11,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574884708,
+      "creation_date": 1574884708,
+      "question_id": 59077652,
+      "link": "https://stackoverflow.com/questions/59077652/react-typescript-error-using-static-object",
+      "title": "React Typescript Error using static object"
+    },
+    {
+      "tags": [
+        "casting",
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 8618,
+        "user_id": 154066,
+        "user_type": "registered",
+        "accept_rate": 77,
+        "profile_image": "https://www.gravatar.com/avatar/de26d95d3cf2a9ddcb8b4e5b1967477e?s=128&d=identicon&r=PG&f=1",
+        "display_name": "mk.",
+        "link": "https://stackoverflow.com/users/154066/mk"
+      },
+      "is_answered": true,
+      "view_count": 28620,
+      "accepted_answer_id": 33503842,
+      "answer_count": 2,
+      "score": 104,
+      "last_activity_date": 1574883704,
+      "creation_date": 1446564916,
+      "question_id": 33503077,
+      "link": "https://stackoverflow.com/questions/33503077/any-difference-between-type-assertions-and-the-newer-as-operator-in-typescript",
+      "title": "Any difference between type assertions and the newer `as` operator in TypeScript?"
+    },
+    {
+      "tags": [
+        "typescript",
+        "promise",
+        "google-cloud-firestore"
+      ],
+      "owner": {
+        "reputation": 185,
+        "user_id": 4961615,
+        "user_type": "registered",
+        "accept_rate": 79,
+        "profile_image": "https://www.gravatar.com/avatar/834e40d8dcfc6ddb7af4a8fa13b613bd?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Ingrid",
+        "link": "https://stackoverflow.com/users/4961615/ingrid"
+      },
+      "is_answered": false,
+      "view_count": 25,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574882568,
+      "creation_date": 1574777791,
+      "last_edit_date": 1574882568,
+      "question_id": 59052910,
+      "link": "https://stackoverflow.com/questions/59052910/how-do-i-return-the-result-of-a-firestore-query-in-typescript",
+      "title": "How do I return the result of a Firestore query in Typescript?"
+    },
+    {
+      "tags": [
+        "typescript",
+        "visual-studio-code"
+      ],
+      "owner": {
+        "reputation": 2626,
+        "user_id": 5010413,
+        "user_type": "registered",
+        "accept_rate": 86,
+        "profile_image": "https://graph.facebook.com/1073378492675881/picture?type=large",
+        "display_name": "Edgaras Karka",
+        "link": "https://stackoverflow.com/users/5010413/edgaras-karka"
+      },
+      "is_answered": true,
+      "view_count": 225,
+      "accepted_answer_id": 58821005,
+      "answer_count": 3,
+      "score": 5,
+      "last_activity_date": 1574879627,
+      "creation_date": 1573569598,
+      "last_edit_date": 1573570062,
+      "question_id": 58820889,
+      "link": "https://stackoverflow.com/questions/58820889/expression-expected-ts1109-after-typescript-upgrade-to-3-7-2",
+      "title": "Expression expected.ts(1109) after TypeScript upgrade to 3.7.2"
+    },
+    {
+      "tags": [
+        "node.js",
+        "typescript",
+        "unit-testing",
+        "rxjs",
+        "jestjs"
+      ],
+      "owner": {
+        "reputation": 97,
+        "user_id": 3497702,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/c6752eae62db42a9f96ad5b3d24fb444?s=128&d=identicon&r=PG&f=1",
+        "display_name": "user3497702",
+        "link": "https://stackoverflow.com/users/3497702/user3497702"
+      },
+      "is_answered": false,
+      "view_count": 7,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574879069,
+      "creation_date": 1574879069,
+      "question_id": 59076405,
+      "link": "https://stackoverflow.com/questions/59076405/jest-unit-test-for-typescript-class-in-node-js-is-not-covering-test-coverage-for",
+      "title": "Jest Unit Test for TypeScript Class in Node.js is not covering test coverage for most of the part"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "typescript-typings"
+      ],
+      "owner": {
+        "reputation": 6597,
+        "user_id": 592099,
+        "user_type": "registered",
+        "accept_rate": 61,
+        "profile_image": "https://www.gravatar.com/avatar/7a89a86f9b22660a12ca622559611cf8?s=128&d=identicon&r=PG",
+        "display_name": "ghostCoder",
+        "link": "https://stackoverflow.com/users/592099/ghostcoder"
+      },
+      "is_answered": true,
+      "view_count": 71,
+      "answer_count": 3,
+      "score": 3,
+      "last_activity_date": 1574876389,
+      "creation_date": 1573746844,
+      "question_id": 58860846,
+      "link": "https://stackoverflow.com/questions/58860846/typescript-how-to-define-an-interface-with-a-key-whose-value-is-a-subset-of-val",
+      "title": "Typescript: How to define an interface with a key whose value is a subset of values in an array?"
+    },
+    {
+      "tags": [
+        "typescript",
+        "generic-function"
+      ],
+      "owner": {
+        "reputation": 58,
+        "user_id": 7102698,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/534747d71141a9c92c7609fc722c45ca?s=128&d=identicon&r=PG&f=1",
+        "display_name": "azwier",
+        "link": "https://stackoverflow.com/users/7102698/azwier"
+      },
+      "is_answered": true,
+      "view_count": 30,
+      "accepted_answer_id": 59075709,
+      "answer_count": 2,
+      "score": 2,
+      "last_activity_date": 1574876388,
+      "creation_date": 1574873861,
+      "question_id": 59075083,
+      "link": "https://stackoverflow.com/questions/59075083/typescript-how-do-i-narrow-type-possibilities-of-a-generic-type-in-a-switch-st",
+      "title": "Typescript - How do I narrow type possibilities of a generic type in a switch statement?"
+    },
+    {
+      "tags": [
+        "node.js",
+        "unit-testing",
+        "typescript",
+        "sinon"
+      ],
+      "owner": {
+        "reputation": 215,
+        "user_id": 7083440,
+        "user_type": "registered",
+        "profile_image": "https://lh5.googleusercontent.com/-WIpVIhwg1e0/AAAAAAAAAAI/AAAAAAAAAAA/tWAFzddHOiQ/photo.jpg?sz=128",
+        "display_name": "SHRUTHI BHARADWAJ",
+        "link": "https://stackoverflow.com/users/7083440/shruthi-bharadwaj"
+      },
+      "is_answered": true,
+      "view_count": 4073,
+      "accepted_answer_id": 47432826,
+      "answer_count": 2,
+      "score": 11,
+      "last_activity_date": 1574871991,
+      "creation_date": 1511347513,
+      "question_id": 47432676,
+      "link": "https://stackoverflow.com/questions/47432676/how-to-stub-a-private-method-of-a-class-written-in-typescript-using-sinon",
+      "title": "How to stub a private method of a class written in typescript using sinon"
+    },
+    {
+      "tags": [
+        "typescript",
+        "react-redux",
+        "higher-order-components"
+      ],
+      "owner": {
+        "reputation": 61,
+        "user_id": 12152982,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/85a96f15c74d4368c8399d71a09d8834?s=128&d=identicon&r=PG&f=1",
+        "display_name": "anon_dcs3spp",
+        "link": "https://stackoverflow.com/users/12152982/anon-dcs3spp"
+      },
+      "is_answered": false,
+      "view_count": 8,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574871969,
+      "creation_date": 1574869069,
+      "last_edit_date": 1574871969,
+      "question_id": 59073694,
+      "link": "https://stackoverflow.com/questions/59073694/compile-error-occurs-when-making-a-routed-react-redux-connected-higher-order-com",
+      "title": "Compile error occurs when making a routed react-redux connected higher order component in typescript?"
+    },
+    {
+      "tags": [
+        "typescript"
+      ],
+      "owner": {
+        "reputation": 17985,
+        "user_id": 1137669,
+        "user_type": "registered",
+        "accept_rate": 54,
+        "profile_image": "https://i.stack.imgur.com/ynWJw.jpg?s=128&g=1",
+        "display_name": "Karl Morrison",
+        "link": "https://stackoverflow.com/users/1137669/karl-morrison"
+      },
+      "is_answered": true,
+      "view_count": 25,
+      "answer_count": 3,
+      "score": 1,
+      "last_activity_date": 1574871884,
+      "creation_date": 1574869784,
+      "question_id": 59073911,
+      "link": "https://stackoverflow.com/questions/59073911/how-to-inject-enums-in-typescript",
+      "title": "How to inject Enums in TypeScript?"
+    },
+    {
+      "tags": [
+        "typescript",
+        "typescript-typings",
+        "typescript-generics"
+      ],
+      "owner": {
+        "reputation": 13,
+        "user_id": 10357418,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/-Rqpz06rey34/AAAAAAAAAAI/AAAAAAAAARk/SPFT_A-qtlk/photo.jpg?sz=128",
+        "display_name": "Mikhail Unenov",
+        "link": "https://stackoverflow.com/users/10357418/mikhail-unenov"
+      },
+      "is_answered": true,
+      "view_count": 27,
+      "accepted_answer_id": 59074170,
+      "answer_count": 1,
+      "score": 1,
+      "last_activity_date": 1574871294,
+      "creation_date": 1574868732,
+      "question_id": 59073607,
+      "link": "https://stackoverflow.com/questions/59073607/implementing-of-generic-curried-function-using-typescript",
+      "title": "Implementing of generic curried function using Typescript"
+    },
+    {
+      "tags": [
+        "javascript",
+        "typescript",
+        "raphael"
+      ],
+      "owner": {
+        "reputation": 3898,
+        "user_id": 1362485,
+        "user_type": "registered",
+        "accept_rate": 91,
+        "profile_image": "https://www.gravatar.com/avatar/85b32b3a16a6ab2c1dec2bc3d086bff1?s=128&d=identicon&r=PG&f=1",
+        "display_name": "ps0604",
+        "link": "https://stackoverflow.com/users/1362485/ps0604"
+      },
+      "is_answered": false,
+      "view_count": 14,
+      "answer_count": 0,
+      "score": 0,
+      "last_activity_date": 1574868872,
+      "creation_date": 1574861149,
+      "last_edit_date": 1574868872,
+      "question_id": 59071270,
+      "link": "https://stackoverflow.com/questions/59071270/importing-raphael-js-plugin-in-typescript",
+      "title": "Importing Raphael JS plugin in Typescript"
+    },
+    {
+      "tags": [
+        "typescript",
+        "vue.js",
+        "vue-component",
+        "vue-class-components"
+      ],
+      "owner": {
+        "reputation": 721,
+        "user_id": 1196358,
+        "user_type": "registered",
+        "accept_rate": 76,
+        "profile_image": "https://www.gravatar.com/avatar/c6a9bec30355b7d5d293fa176cd800b0?s=128&d=identicon&r=PG",
+        "display_name": "ghukill",
+        "link": "https://stackoverflow.com/users/1196358/ghukill"
+      },
+      "is_answered": false,
+      "view_count": 10,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574868596,
+      "creation_date": 1574867989,
+      "question_id": 59073356,
+      "link": "https://stackoverflow.com/questions/59073356/typing-prop-in-vue-class-based-component-in-typescript",
+      "title": "typing prop in Vue class-based component in typescript"
+    },
+    {
+      "tags": [
+        "typescript",
+        "hashmap"
+      ],
+      "owner": {
+        "reputation": 49,
+        "user_id": 12352834,
+        "user_type": "registered",
+        "profile_image": "https://lh6.googleusercontent.com/--pDTQSmADaU/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd0TJfoMb62lnLns2_HQFhB1M0TwQ/photo.jpg?sz=128",
+        "display_name": "Mike Ottink",
+        "link": "https://stackoverflow.com/users/12352834/mike-ottink"
+      },
+      "is_answered": false,
+      "view_count": 28,
+      "closed_date": 1574873397,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574866232,
+      "creation_date": 1574863257,
+      "question_id": 59071893,
+      "link": "https://stackoverflow.com/questions/59071893/typescript-how-do-i-remove-a-value-from-a-hashmap",
+      "closed_reason": "duplicate",
+      "title": "Typescript - How do I remove a value from a hashmap?"
+    },
+    {
+      "tags": [
+        "reactjs",
+        "spfx"
+      ],
+      "owner": {
+        "reputation": 145,
+        "user_id": 3922230,
+        "user_type": "registered",
+        "profile_image": "https://www.gravatar.com/avatar/7303545db23d81e1465b6f54419d9ed9?s=128&d=identicon&r=PG&f=1",
+        "display_name": "Tom",
+        "link": "https://stackoverflow.com/users/3922230/tom"
+      },
+      "is_answered": true,
+      "view_count": 14,
+      "accepted_answer_id": 59071979,
+      "answer_count": 1,
+      "score": 0,
+      "last_activity_date": 1574863541,
+      "creation_date": 1574263531,
+      "question_id": 58957880,
+      "link": "https://stackoverflow.com/questions/58957880/how-to-separate-a-form-into-several-different-pages-when-using-a-single-class-co",
+      "title": "How to separate a form into several different pages when using a single class component spfx/react/typescript"
+    }
+  ],
+  "has_more": true,
+  "quota_max": 300,
+  "quota_remaining": 292
+}
