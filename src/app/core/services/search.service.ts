@@ -18,7 +18,7 @@ export interface ISearchResultItem  {
 
 @Injectable()
 export class SearchService {
-
+    private _jsonMockURL = 'http://localhost:4200/src/app/core/services/';
     private static readonly apiUrl =
         "https://api.stackexchange.com/2.2/search?pagesize=20&order=desc&sort=activity&site=stackoverflow&intitle=";
 
@@ -27,14 +27,15 @@ export class SearchService {
     }
 
     search(keyword: string): Observable<JSON> {
-        return this.http.get(SearchService.apiUrl + keyword)
-            .map((res: Response) => {
-                let data = res.json();
-                console.log("API USAGE: " + data.quota_remaining + " of " + data.quota_max + " requests available" );
-                return data;
-            })
-            .catch((err: Response) => Observable.of(err.json()));
+           return this.http.get(this._jsonMockURL + keyword.toLowerCase() + '.json')
+          .map((res: Response) => {
+              let data = res.json();
+              console.log("API USAGE: " + data.quota_remaining + " of " + data.quota_max + " requests available" );
+              return data;
+          })
+          .catch((err: Response) => Observable.of(err.json()));
     }
 
 
 }
+
