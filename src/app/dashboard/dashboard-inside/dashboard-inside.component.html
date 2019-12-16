@@ -1,11 +1,17 @@
 <div class="container">
-  <ul>
-    <div *ngFor="let item of items">
-
-      <li>{{item}}</li>
-
+  <ul class="listofItems">
+    <div *ngFor="let item of dashboardItems">
+      <li *ngIf="item.link !==null && item.link !== ''">
+        <a  href="{{item.link}}">{{item.title}}</a>
+      </li>
+      <li *ngIf="item.link === null || item.link === ''">
+        {{item.title}}
+      </li>
+      <br>
     </div>
   </ul>
 </div>
+
+
 
 
